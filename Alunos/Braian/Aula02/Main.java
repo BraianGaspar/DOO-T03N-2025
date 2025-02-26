@@ -7,6 +7,7 @@ public class Main {
 
     public static void helloWorld(){
         System.out.println("Hello, World!");
+<<<<<<< HEAD
     }
     public static void OlaMundol(){
         System.out.println("Ola Mundo");
@@ -15,3 +16,6 @@ public class Main {
         System.out.println("Hola Mundo");
     }
 }
+=======
+    }
+>>>>>>> main
